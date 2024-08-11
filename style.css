@@ -1,0 +1,67 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+ /* .abody{
+    width: 90%;
+    margin: 60px;
+    background-color: red;
+ } */
+ .mainbody {
+    background-color: rgb(251, 242, 231);
+    height: auto;
+    width: 90%;
+    margin: 60px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    /* width: 90%;
+    margin-left: 50px; */
+  }
+  .mainbody {
+    padding: 10px;
+    /* margin: 10px; */
+  }
+  
+  .foodlist {
+     margin: 5px;
+    
+    /* background-color: red; */
+    /* padding: 10px; */
+   
+  }
+  .btn {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+  }
+  .foodlist .card {
+    padding: 5px;
+    margin: 0px 50px 20px 0px;
+    max-width: 80%;
+    position: relative;
+  }
+  
+  .addcart {
+    height: 75vh;
+  }
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  .foodcard{
+      /* background-color: blue; */
+      margin: 0px 0px 0px 30px;
+      max-width: 70%;
+  }
+  img{
+      padding-bottom: 25px;
+  }
+  .hg{
+    color: brown;
+  }
+  .button{
+    background-color: brown;
+  }
